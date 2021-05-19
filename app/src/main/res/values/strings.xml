@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">BB Roster</string>
+    <string name="btnMyRoster">Mis equipos</string>
+    <string name="btnNewRoster">Nuevo roster</string>
+    <string name="itemTeamName">Nombre del equipo</string>
+    <string name="itemTeamRoster">Nombre del roster</string>
+    <string name="playStyle">Estilo de juego</string>
+    <string name="menuCloseApp">Salir</string>
+    <string name="bbstyle">Blood Bowl</string>
+    <string name="bbsevensstyle">Blood Bowl Sevens</string>
+    <string name="editTeamName">Introduce el nombre de tu equipo</string>
+    <string name="editTeamRoster">Introduce el roster de tu equipo</string>
+    <string name="editTeamStyle">¿Blood Bowl o BB Sevens?</string>
+    <string name="editPlayerName">Nombre del jugador</string>
+    <string name="editPlayerPosition">Posicion del jugador</string>
+    <string name="editPlayerCost">Valoración</string>
+    <string name="editPlayerAbilities">Introduce las habilidades del jugador</string>
+    <string name="btnSave">GUARDAR</string>
+    <string name="btnDelete">ELIMINAR</string>
+    <string name="editMovement">MV</string>
+    <string name="editStrength">FU</string>
+    <string name="editAgility">AG</string>
+    <string name="editPass">PS</string>
+    <string name="editArmour">AR</string>
+    <string name="txtTeamValue">Valoración del equipo</string>
+</resources>
